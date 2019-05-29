@@ -1,0 +1,29 @@
+#! /usr/bin/env python3
+
+class classmethod(object):
+    """
+    classmethod(function) -> method
+    """
+    def __init__(self, function): # for @classmethod decorator
+        pass
+    def __call__(self):
+        pass
+class staticmethod(object):
+    """
+    staticmethod(function) -> method
+    """
+    def __init__(self, function): # for @staticmethod decorator
+        pass
+    def __call__(self,function):
+        return function
+
+
+class Foo(object):
+
+    @staticmethod
+    def bar():
+        print("Hi")
+
+
+my_foo = Foo()
+my_foo.bar()
