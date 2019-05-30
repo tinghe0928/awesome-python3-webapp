@@ -1,0 +1,34 @@
+30-27-2019 10:27:17 root:INFO:This is an info message
+30-27-2019 10:27:17 root:WARNING:This is a warning message
+30-27-2019 10:27:17 root:ERROR:This is an error message
+30-27-2019 10:27:17 root:CRITICAL:This is a critical message
+This is a customer warning message
+This is an customer error message
+This is a customer critical message
+This is a customer warning message
+This is an customer error message
+This is a customer critical message
+This is a customer warning message
+This is an customer error message
+This is a customer critical message
+This is a customer warning message
+This is an customer error message
+This is a customer critical message
+2019-05-30 11:04:16,563 - MyLogger - WARNING - This is a customer warning message
+2019-05-30 11:04:16,565 - MyLogger - ERROR - This is an customer error message
+2019-05-30 11:04:16,566 - MyLogger - CRITICAL - This is a customer critical message
+2019-05-30 11:07:08,647 - MyLogger - WARNING - This is a customer warning message
+2019-05-30 11:07:08,648 - MyLogger - ERROR - This is an customer error message
+2019-05-30 11:07:08,648 - MyLogger - CRITICAL - This is a customer critical message
+2019-05-30 11:07:33,141 - MyLogger - WARNING - This is a customer warning message
+2019-05-30 11:07:33,141 - MyLogger - ERROR - This is an customer error message
+2019-05-30 11:07:33,141 - MyLogger - CRITICAL - This is a customer critical message
+2019-05-30 11:08:10,148 - MyLogger - WARNING - This is a customer warning message
+2019-05-30 11:08:10,149 - MyLogger - ERROR - This is an customer error message
+2019-05-30 11:08:10,149 - MyLogger - CRITICAL - This is a customer critical message
+2019-05-30 11:09:53,210 - MyLogger - WARNING - This is a customer warning message
+2019-05-30 11:09:53,210 - MyLogger - ERROR - This is an customer error message
+2019-05-30 11:09:53,210 - MyLogger - CRITICAL - This is a customer critical message
+2019-05-30 11:10:09,224 - MyLogger - WARNING - This is a customer warning message
+2019-05-30 11:10:09,224 - MyLogger - ERROR - This is an customer error message
+2019-05-30 11:10:09,225 - MyLogger - CRITICAL - This is a customer critical message
