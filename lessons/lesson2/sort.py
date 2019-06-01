@@ -10,7 +10,7 @@ def perm(s,i):
             perm(s,i+1)
             s[i],s[j] = s[j],s[i]
            
-s = "abc"
+s = "aac"
 s = list(s)              
 perm(s,0)
     
